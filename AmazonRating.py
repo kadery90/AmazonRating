@@ -9,7 +9,7 @@ pd.set_option('display.width', 500)
 pd.set_option('display.expand_frame_repr', False)
 pd.set_option('display.float_format', lambda x: '%.5f' % x)
 
-df = pd.read_csv(r"C:\Users\yildi\OneDrive\Masaüstü\datasets/amazon_review.csv")
+df = pd.read_csv(r"datasets/amazon_review.csv")
 
 df.head()
 
