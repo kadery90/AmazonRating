@@ -7,6 +7,7 @@ Veri Seti: Ürün kategorileri ve toplanan verileri
 Değişkenler: 
 
 → reviewerID: Kullanıcı ID
+
 → asin: Ürün ID
 → reviewerName: Kullanıcı Adı
 → reviewText: Değerlendirme
